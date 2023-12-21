@@ -1,0 +1,62 @@
+.Subscribe {
+  display: flex;
+  margin: 0 auto;
+  justify-content: center;
+  padding-bottom: 13rem;
+}
+.pinkBg {
+  border-radius: 20px;
+  background: #fff4f4;
+  display: flex;
+  align-items: center;
+  margin: 0 auto;
+  flex-direction: column;
+  padding: 3rem;
+  width: 54rem;
+}
+.pinkBg h3 {
+  color: #180202;
+  text-align: center;
+  font-size: 4.4rem;
+  font-style: normal;
+  font-weight: 700;
+  padding-top: 2rem;
+  line-height: 130%;
+}
+
+.pinkBg p {
+  color: #180202;
+  text-align: center;
+  font-size: 1.6rem;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 150%;
+  margin-top: 0.6rem;
+}
+
+form {
+  margin-top: 3.6rem;
+  display: flex;
+  justify-content: space-between;
+  border-radius: 50px;
+  background-color: #fff;
+}
+
+form input {
+  border: none;
+  padding-left: 3rem;
+  padding-right: 10rem;
+  border-radius: 50px;
+  outline: none;
+}
+
+form button {
+  border-radius: 50px;
+  background: #ff4948;
+  padding: 1.5rem 3rem;
+  color: #fff;
+  font-size: 2.2rem;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 140%;
+}

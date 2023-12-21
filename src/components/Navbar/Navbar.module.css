@@ -1,0 +1,25 @@
+.navbar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding-top: 3.4rem;
+}
+
+.icons {
+  display: flex;
+  justify-content: space-between;
+  gap: 3.2rem;
+}
+
+.img {
+  background-color: #fff;
+  padding: 1.3rem 1.6rem;
+  border-radius: 50%;
+}
+
+.icons span {
+  background-color: #fff;
+  width: 2px;
+  height: 47px;
+  opacity: 0.5;
+}

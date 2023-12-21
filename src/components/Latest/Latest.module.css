@@ -1,0 +1,79 @@
+.latest {
+  padding-top: 13rem;
+  padding-bottom: 10rem;
+}
+
+.latest h3 {
+  color: #180202;
+  text-align: center;
+  font-size: 4.4rem;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 130%;
+}
+
+.latest h5 {
+  margin: 0 auto;
+  margin-top: 2.5rem;
+  color: #180202;
+  text-align: center;
+  font-size: 1.6rem;
+  opacity: 0.7;
+  max-width: 57rem;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 150%;
+}
+
+.headphones {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-top: 4.3rem;
+}
+
+.starsNum {
+  display: flex;
+  align-items: center;
+  margin-top: 3.5rem;
+  gap: 12rem;
+}
+
+.starsNum span {
+  color: #180202;
+  text-align: center;
+  font-size: 1.6rem;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 150%;
+}
+.stars {
+  display: flex;
+  gap: 1rem;
+}
+
+.textNum {
+  display: flex;
+  align-items: center;
+  gap: 9rem;
+margin-top: 1.5rem;
+
+
+}
+
+.textNum h4 {
+  color: #180202;
+  font-size: 2.2rem;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 140%;
+}
+
+.textNum p {
+  color: #180202;
+  text-align: center;
+  font-size: 2.2rem;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 140%;
+}

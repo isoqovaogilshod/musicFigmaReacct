@@ -1,0 +1,37 @@
+.footer {
+  background: #e86564;
+  padding-top: 6.2rem;
+  padding-bottom: 6.1rem;
+}
+
+.footerPart {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.links ul {
+  display: flex;
+  gap: 3.4rem;
+}
+
+.links ul li a {
+  color: #fff;
+  font-size: 2rem;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 140%;
+}
+
+.icons {
+  display: flex;
+  align-items: center;
+  gap: 3rem;
+}
+
+.icons .img {
+  background-color: #fff;
+  padding: 1.6rem;
+  border-radius: 50%;
+  display: flex;
+}

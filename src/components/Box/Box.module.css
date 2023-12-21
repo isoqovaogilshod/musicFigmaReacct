@@ -1,0 +1,37 @@
+.boxPart {
+  display: flex;
+  padding-bottom: 13rem;
+}
+
+.boxText {
+  margin-top: 7rem;
+}
+.boxText h3 {
+  color: #000;
+  font-size: 4.4rem;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 130%;
+  max-width: 39rem;
+}
+
+.parts {
+  padding-top: 4.8rem;
+  display: flex;
+  flex-direction: column;
+  gap: 4rem;
+}
+.part {
+  display: flex;
+  align-items: center;
+  gap: 1.5rem;
+}
+
+.part p {
+  color: #000;
+  font-size: 2.2rem;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 140%; 
+  opacity: 0.7;
+}

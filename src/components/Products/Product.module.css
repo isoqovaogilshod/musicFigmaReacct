@@ -1,0 +1,40 @@
+.products {
+  padding-top: 13rem;
+}
+
+h2 {
+  color: #180202;
+  text-align: center;
+  font-size: 44px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 130%;
+  max-width: 50rem;
+  display: flex;
+  margin: 0 auto;
+}
+.productsPart {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.headPhones {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.blue {
+  max-width: 57rem;
+  transform: translateY(2rem);
+
+}
+
+.red {
+  transform: translateX(15rem);
+  z-index: -1;
+}
+
+.orange {
+  transform: translateX(-15rem);
+  z-index: -1;
+}
